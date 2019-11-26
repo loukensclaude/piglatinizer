@@ -1,6 +1,26 @@
-.container{
-    text-align:center;
+ .title{
+  display:flex;
+  justify-content:center;
 }
+
+#input{
+  display:flex;
+  justify-content:center;
+}
+
+.input{
+    margin-left:10px;
+}
+
+.button {
+  margin-left:10px;
+}
+
+.theResult{
+  display:flex;
+  justify-content:center;
+}
+
 body{
-    background:pink;
+  background-color: lightblue;
 }
