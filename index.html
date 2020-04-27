@@ -1,26 +1,36 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title> Pig Latinizer </title>
-        <!-- Latest compiled and minified CSS -->
-        <!-- Your CSS -->
-        <link type="text/css" rel="stylesheet" href="css/style.css" />
-        <!-- jQuery -->
-        <!-- Your jQuery and Javascript -->
-        <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
-        <script src="js/script.js"></script>
-    </head>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <body>
-       <h1 class="title"> Pig Latin Translater </h1>
-       <div id="input"> Your text: <input class="input"> <button class="button"> Ranslatetay </button></div>
-       <div class="theResult">
-       <p class="output"></p>
-       </div>
- 	</body>
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
 
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <div id="inputs">
+      <h1>User Info:</h1>
+      <h2><input placeholder="Add a username" id="input" /></h2>
+    </div>
+    <button id="register">Register</button>
+    <button id="noteButton"> ~Tip~ </button>
+    <div id="note">
+        
+        <p id="letter">
+           Click True or False to the statements presented at the center. The Score and other important info are displayed at the bottom left. To win you must correctly answer 5 out of the 10 statements presented.<br />
+        </p>
+      
+      </div>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+<!--     <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div> -->
+    <script src="https://button.glitch.me/button.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </body>
 </html>
-<!-- //     git status
-// git add .
-// git commit -m "Your message here"
-// git push origin master -->

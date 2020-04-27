@@ -1,39 +1,37 @@
-# Pig Latinizer Project
-## Browser preview command: python3 -m http.server 3000
+Welcome to Glitch
+=================
 
-## Overview: 
-In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data,  string methods to separate and transform words,  loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence. Follow the steps below to make your very own site! Make sure to check off your items as you complete them. [ ] => [x]
-Pig Latin takes the first consonant (or consonant cluster) of an English word, moves it to the end of the word and suffixes an ay, or if a word begins with a vowel you just add ay to the end. For example, pig becomes igpay, banana becomes ananabay, and aadvark becomes aadvarkay.
-## Day 1
-### Planning
-- [ ] Review your Starter Code and make sure you understand what code has already been written for you.
-### Set-Up
-- [x] Go to the repository at https://github.com/itscodenation/piglatinizer
-- [ ] Fork this repository to your github account and pull it into Gitpod
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
-### index.html
-- [ ] Make small updates.
-### JS
-- [ ] Create a click handler to take user input and display it on the page
-- [ ] Using array methods, write the code that displays a word transformed into Pig latin and displays it on the page
-### Wrap
-- [ ] Push your changes!
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-## Day 2
-### JS
-- [ ] Using array methods and loops, write the code to transform an entire sentence into pig latin.
-- [ ] Using string methods and your knowledge of conditionals, write the code that will Pig Latinize your sentence correctly for both vowels and consonants.
-### Wrap
-- [ ] Push your changes!
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+
+Find out more [about Glitch](https://glitch.com/about).
 
 
-## Projects Extensions:
-* Create another input box that transforms pig latin into english
-* Create you own secret encoder that encrypts messages 
-* Try out the [passcode](https://jsbin.com/tawogirebo/edit?html,js,output)
+Your Project
+------------
 
-## References/Tools
-* [Advanced Reference Table]()
-* [W3 String Methods](https://www.w3schools.com/js/js_string_methods.asp)
-* [W3 Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+### ← README.md
+
+That's this file, where you can tell people what your cool website does and how you built it.
+
+### ← index.html
+
+Where you'll write the content of your website. 
+
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
